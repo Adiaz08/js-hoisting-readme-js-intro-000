@@ -18,7 +18,7 @@ function crazy() {
 }
 
 function sayMyName() {
-  @@ -24,7 +22,8 @@ function sayMyName(){// fix the code in here:
+  @@ -24,7 +23,8 @@ function sayMyName(){// fix the code in here:
   saymy();
 function sayMy() {
 
