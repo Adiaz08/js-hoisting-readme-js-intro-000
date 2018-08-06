@@ -18,13 +18,11 @@ function crazy() {
 }
 
 function sayMyName() {
-  @@ -24,7 +22,7 @@ function sayMyName()/ fix the code in here:
-  var name = "Cricky";
+  @@ -24,7 +22,7 @@ function sayMyName(){// fix the code in here:
+  saymy();
+function sayMy() {
 
-
-
-  function sayMy() {
-    name = "Kristin"
+    var name = "Kristin"
     console.log(name);
   }
 
