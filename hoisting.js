@@ -11,9 +11,7 @@ var callMe = function callMe() {
 callMe()
 
 function crazy() {
-  var crazy = function()// fix the code in here:
-  Crazy();
-
+  var crazy = function(){}/ fix the code in here:
   var thisIsCrazy = function (){
     console.log("hey!!!")
   }
@@ -26,9 +24,9 @@ function sayMy() {
 
 
   function sayMy() {
-    name = "Kristin";
+    name = "Kristin"
     console.log(name);
   }
-  sayMy()
+  
 }
-sayMyName()()
+
