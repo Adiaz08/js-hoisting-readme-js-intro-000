@@ -1,4 +1,4 @@
-@@ -3,18 +3,17 @@ function callMe() {
+  function callMe() {
   console.log("I just met you...");
   console.log("and this is crazy..");
   console.log("but here's my number..");
@@ -18,7 +18,7 @@ function crazy() {
 }
 
 function sayMyName() {
-  @@ -24,7 +23,8 @@ function sayMyName(){// fix the code in here:
+function sayMyName(){// fix the code in here:
   saymy();
 function sayMy() {
 
